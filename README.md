@@ -25,12 +25,7 @@ A custom-built portfolio and e-commerce website for a professional comic book ar
 
 ## 🎯 About
 
-This project is a fully custom portfolio website built for a comic book artist to showcase their work and sell their comics online. Unlike template-based solutions like Squarespace, this site offers:
-
-- **Complete design freedom** - tailored to the artist's unique style
-- **Better performance** - lightweight and optimized
-- **Cost savings** - one-time build cost vs. recurring monthly fees
-- **Full ownership** - complete control over code and content
+This project is a fully custom portfolio website built for a comic book artist to showcase their work and sell their comics online. 
 
 Built as a learning project by a Computer Science student, this website demonstrates modern web development practices while delivering professional results.
 
@@ -195,20 +190,7 @@ comic-portfolio/
 - [ ] Add loading states and error handling
 - [ ] Create admin panel for content updates (future)
 
----
 
-## 💡 Why This Approach?
-
-**Cost Comparison:**
-- Squarespace: $192-588/year (ongoing)
-- This custom site: One-time build + ~$15/year for domain
-
-**Benefits:**
-- Full creative control
-- Better performance and SEO
-- No platform lock-in
-- Learning opportunity
-- Portfolio piece for developer
 
 ---
 
