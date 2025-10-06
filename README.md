@@ -35,11 +35,12 @@ Built as a learning project by a Computer Science student, this website demonstr
 
 ### Current Features
 - 📱 **Responsive Design** - works seamlessly on desktop, tablet, and mobile
+
+
+### Coming Soon
 - 🖼️ **Full-Width Banner** - striking hero image with artist branding
 - 🧭 **Navigation System** - clean, intuitive site navigation with React Router
 - 🔗 **Social Integration** - links to artist's social media profiles
-
-### Coming Soon
 - 🎨 **Webcomic Galleries** - organized display of comic series and artwork
 - 📰 **News Section** - blog-style updates and announcements
 - ✍️ **Writing Portfolio** - showcase of written work
