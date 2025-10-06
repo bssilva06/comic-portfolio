@@ -22,3 +22,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Protect artwork and images
+public/images/
+*.jpg
+*.png
+*.jpeg
+*.gif
+*.webp
+*.svg
