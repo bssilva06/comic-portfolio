@@ -23,11 +23,15 @@ dist-ssr
 *.sln
 *.sw?
 
-# Protect artwork and images
-public/images/
-*.jpg
-*.png
-*.jpeg
-*.gif
-*.webp
-*.svg
+# Protect artwork and images (but allow folder structure)
+public/images/**/*.jpg
+public/images/**/*.png
+public/images/**/*.jpeg
+public/images/**/*.gif
+public/images/**/*.webp
+public/images/**/*.svg
+
+# Allow .gitkeep and README files to maintain folder structure
+!public/images/**/.gitkeep
+!public/images/**/README.md
+!public/images/README.md
