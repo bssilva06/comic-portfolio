@@ -2,7 +2,7 @@
 
 This folder contains all the images for the comic portfolio website.
 
-## Structure:
+## Folder Structure:
 
 - **`/comics/`** - Comic panels, webcomic pages, and comic-related images
 - **`/products/`** - Product photos for the shop (book covers, merchandise, etc.)
@@ -11,9 +11,9 @@ This folder contains all the images for the comic portfolio website.
 - **`/gallery/`** - Gallery and archive images
 - **`/banners/`** - Hero banners, header images, and promotional graphics
 
-## Usage:
+## Usage in Code:
 
-Images in this folder can be referenced in your code using absolute paths:
+Images in this folder are referenced using absolute paths:
 
 ```javascript
 // Example in data files
@@ -24,14 +24,15 @@ bannerImage: "/images/banners/hero-banner.jpg";
 
 ## Important Notes:
 
-⚠️ **These images are NOT committed to GitHub** (protected by `.gitignore`)
+⚠️ **Image files are NOT included in this repository** (protected by `.gitignore`)
 
-- This protects your artwork from being publicly downloadable
-- You'll need to manually transfer these images between computers
-- Images will be uploaded directly to your hosting service (Netlify/Vercel)
+- The folder structure is maintained for organizational purposes
+- Actual image files are stored locally and on the hosting service
+- Images are protected from unauthorized downloading and distribution
+- Only `.gitkeep` and documentation files are tracked in version control
 
-## File Naming Best Practices:
+## File Naming Conventions:
 
-- Use lowercase with hyphens: `my-comic-page-1.jpg`
-- Be descriptive: `winter-knight-cover.jpg` instead of `img1.jpg`
-- Include sequence numbers for pages: `page-01.jpg`, `page-02.jpg`
+- Lowercase with hyphens: `my-comic-page-1.jpg`
+- Descriptive names: `winter-knight-cover.jpg` instead of `img1.jpg`
+- Sequential numbering for pages: `page-01.jpg`, `page-02.jpg`
